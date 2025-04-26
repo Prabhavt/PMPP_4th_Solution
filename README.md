@@ -11,6 +11,8 @@ This repository contains my solutions to the exercises from the book **"Programm
 
 ## 📁 Repository Structure  
 -  Chapter_3  - Completed 
+-  Chapter_4  - Completed
+-  Chapter_5  - Completed
 
 ## 🛠 Prerequisites  
 Before running the code, ensure you have:  

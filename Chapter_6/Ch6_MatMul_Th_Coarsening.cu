@@ -1,3 +1,12 @@
+
+/*  Programming Massively Parallel Processors 4th Edition Solution
+    Chapter 6: Performance Considerations
+
+    Example Code: Thread Coaresening
+
+*/
+
+
 #include<cuda.h>
 #include<iostream>
 #include<stdlib.h>
